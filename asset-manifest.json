@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/react-test2/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-test2/static/js/main.0b13ff1c.chunk.js",
-    "main.js.map": "/react-test2/static/js/main.0b13ff1c.chunk.js.map",
+    "main.css": "/react-test2/static/css/main.3cba6558.chunk.css",
+    "main.js": "/react-test2/static/js/main.12cf6bfd.chunk.js",
+    "main.js.map": "/react-test2/static/js/main.12cf6bfd.chunk.js.map",
     "runtime-main.js": "/react-test2/static/js/runtime-main.79e79a41.js",
     "runtime-main.js.map": "/react-test2/static/js/runtime-main.79e79a41.js.map",
-    "static/js/2.8aaac6e4.chunk.js": "/react-test2/static/js/2.8aaac6e4.chunk.js",
-    "static/js/2.8aaac6e4.chunk.js.map": "/react-test2/static/js/2.8aaac6e4.chunk.js.map",
+    "static/js/2.56bd2944.chunk.js": "/react-test2/static/js/2.56bd2944.chunk.js",
+    "static/js/2.56bd2944.chunk.js.map": "/react-test2/static/js/2.56bd2944.chunk.js.map",
     "index.html": "/react-test2/index.html",
-    "precache-manifest.b4af5b0b62ec0c34461561021be80277.js": "/react-test2/precache-manifest.b4af5b0b62ec0c34461561021be80277.js",
+    "precache-manifest.cb49709e389ed1da7ff7b8871eb74f59.js": "/react-test2/precache-manifest.cb49709e389ed1da7ff7b8871eb74f59.js",
     "service-worker.js": "/react-test2/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-test2/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8aaac6e4.chunk.js.LICENSE.txt": "/react-test2/static/js/2.8aaac6e4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-test2/static/media/logo.5d5d9eef.svg"
+    "static/css/main.3cba6558.chunk.css.map": "/react-test2/static/css/main.3cba6558.chunk.css.map",
+    "static/js/2.56bd2944.chunk.js.LICENSE.txt": "/react-test2/static/js/2.56bd2944.chunk.js.LICENSE.txt",
+    "static/media/algorithm.jpg": "/react-test2/static/media/algorithm.fec89ee8.jpg",
+    "static/media/bfs.jpg": "/react-test2/static/media/bfs.a96c0457.jpg",
+    "static/media/bruteforce.jpg": "/react-test2/static/media/bruteforce.3fea7b9e.jpg",
+    "static/media/dfs.jpg": "/react-test2/static/media/dfs.0a9eba77.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.79e79a41.js",
-    "static/js/2.8aaac6e4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b13ff1c.chunk.js"
+    "static/js/2.56bd2944.chunk.js",
+    "static/css/main.3cba6558.chunk.css",
+    "static/js/main.12cf6bfd.chunk.js"
   ]
 }
