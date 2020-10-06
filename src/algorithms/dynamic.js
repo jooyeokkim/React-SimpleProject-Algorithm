@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 import dynamic from '../images/dynamic.jpg';
-
+import {BrowserRouter, Route, Switch, Link, NavLink} from 'react-router-dom';
 
 class Dynamic extends Component{
     render(){
@@ -32,6 +32,7 @@ class Dynamic extends Component{
                     </strong> 
                     </p>
                     <img src={dynamic} width = "30%"></img>
+                    <Link to="../" className="nav">홈으로</Link>
                 </body>
             </html>
         );
