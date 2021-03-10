@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-test2/static/css/main.3cba6558.chunk.css",
-    "main.js": "/react-test2/static/js/main.773d7fa6.chunk.js",
-    "main.js.map": "/react-test2/static/js/main.773d7fa6.chunk.js.map",
-    "runtime-main.js": "/react-test2/static/js/runtime-main.79e79a41.js",
-    "runtime-main.js.map": "/react-test2/static/js/runtime-main.79e79a41.js.map",
-    "static/js/2.56bd2944.chunk.js": "/react-test2/static/js/2.56bd2944.chunk.js",
-    "static/js/2.56bd2944.chunk.js.map": "/react-test2/static/js/2.56bd2944.chunk.js.map",
-    "index.html": "/react-test2/index.html",
-    "precache-manifest.b6e447ae5f6a2e3a97b74f15ea1d20f0.js": "/react-test2/precache-manifest.b6e447ae5f6a2e3a97b74f15ea1d20f0.js",
-    "service-worker.js": "/react-test2/service-worker.js",
-    "static/css/main.3cba6558.chunk.css.map": "/react-test2/static/css/main.3cba6558.chunk.css.map",
-    "static/js/2.56bd2944.chunk.js.LICENSE.txt": "/react-test2/static/js/2.56bd2944.chunk.js.LICENSE.txt",
-    "static/media/algorithm.jpg": "/react-test2/static/media/algorithm.fec89ee8.jpg",
-    "static/media/bfs.jpg": "/react-test2/static/media/bfs.a96c0457.jpg",
-    "static/media/bruteforce.jpg": "/react-test2/static/media/bruteforce.3fea7b9e.jpg",
-    "static/media/dfs.jpg": "/react-test2/static/media/dfs.0a9eba77.jpg"
+    "main.css": "/React-SimpleProject-Algorithm/static/css/main.3cba6558.chunk.css",
+    "main.js": "/React-SimpleProject-Algorithm/static/js/main.de29c21d.chunk.js",
+    "main.js.map": "/React-SimpleProject-Algorithm/static/js/main.de29c21d.chunk.js.map",
+    "runtime-main.js": "/React-SimpleProject-Algorithm/static/js/runtime-main.21328662.js",
+    "runtime-main.js.map": "/React-SimpleProject-Algorithm/static/js/runtime-main.21328662.js.map",
+    "static/js/2.56bd2944.chunk.js": "/React-SimpleProject-Algorithm/static/js/2.56bd2944.chunk.js",
+    "static/js/2.56bd2944.chunk.js.map": "/React-SimpleProject-Algorithm/static/js/2.56bd2944.chunk.js.map",
+    "index.html": "/React-SimpleProject-Algorithm/index.html",
+    "precache-manifest.fd5be420db434070d4d38f0414662207.js": "/React-SimpleProject-Algorithm/precache-manifest.fd5be420db434070d4d38f0414662207.js",
+    "service-worker.js": "/React-SimpleProject-Algorithm/service-worker.js",
+    "static/css/main.3cba6558.chunk.css.map": "/React-SimpleProject-Algorithm/static/css/main.3cba6558.chunk.css.map",
+    "static/js/2.56bd2944.chunk.js.LICENSE.txt": "/React-SimpleProject-Algorithm/static/js/2.56bd2944.chunk.js.LICENSE.txt",
+    "static/media/algorithm.jpg": "/React-SimpleProject-Algorithm/static/media/algorithm.fec89ee8.jpg",
+    "static/media/bfs.jpg": "/React-SimpleProject-Algorithm/static/media/bfs.a96c0457.jpg",
+    "static/media/bruteforce.jpg": "/React-SimpleProject-Algorithm/static/media/bruteforce.3fea7b9e.jpg",
+    "static/media/dfs.jpg": "/React-SimpleProject-Algorithm/static/media/dfs.0a9eba77.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79e79a41.js",
+    "static/js/runtime-main.21328662.js",
     "static/js/2.56bd2944.chunk.js",
     "static/css/main.3cba6558.chunk.css",
-    "static/js/main.773d7fa6.chunk.js"
+    "static/js/main.de29c21d.chunk.js"
   ]
 }
