@@ -1,4 +1,4 @@
-## React / 웹앱 제작 실습
+## React / Router 사용 실습
 
 **실습 결과물**  
 [Github - https://jooyeokkim.github.io/React-SimpleProject-Algorithm/](https://jooyeokkim.github.io/React-SimpleProject-Algorithm/)
